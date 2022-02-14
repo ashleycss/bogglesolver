@@ -1,0 +1,2 @@
+# bogglesolver
+This assignment is based on the classic game Boggle. In this game, players are presented with a 5x5 grid of letters (in most commercial versions, these letters are selected using dice) and are asked to within a certain amount of time find as many English-language words as they can on that grid, with the only restriction being that each letter of a word must be adjacent to all letters after it. 
